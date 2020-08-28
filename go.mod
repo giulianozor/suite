@@ -1,4 +1,4 @@
-module github.com/gobuffalo/suite/v3
+module github.com/giulianozor/suite/v3
 
 go 1.13
 
