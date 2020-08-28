@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/gobuffalo/buffalo v0.15.5
 	github.com/gobuffalo/envy v1.9.0
-	github.com/giulianozor/httptest v1.5.1
+	github.com/giulianozor/httptest v1.5.2
 	github.com/gobuffalo/mw-csrf v1.0.0
 	github.com/gobuffalo/packd v1.0.0
 	github.com/gobuffalo/packr/v2 v2.8.0
