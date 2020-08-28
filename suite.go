@@ -3,8 +3,8 @@ package suite
 import (
 	"testing"
 
+	"github.com/giulianozor/httptest"
 	"github.com/gobuffalo/buffalo"
-	"github.com/gobuffalo/httptest"
 	csrf "github.com/gobuffalo/mw-csrf"
 	"github.com/stretchr/testify/suite"
 )
